@@ -59,3 +59,4 @@ The UI is cleanly designed with: Labels and entry boxes for input, Buttons for a
 **Add User:**
 
 ![Image](https://github.com/user-attachments/assets/0d8d46e6-f993-4701-8e72-e7326e6f910d)
+![Image](https://github.com/user-attachments/assets/b349d3af-1753-43a7-95e2-e1cf031d4123)
