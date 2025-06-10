@@ -71,3 +71,4 @@ The UI is cleanly designed with: Labels and entry boxes for input, Buttons for a
 
 **Delete Student:**
 
+![Image](https://github.com/user-attachments/assets/1e6204f3-806a-41f3-8844-d155779a6b02)
