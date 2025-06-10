@@ -64,3 +64,10 @@ The UI is cleanly designed with: Labels and entry boxes for input, Buttons for a
 **Search By RollNumber:**
 
 ![Image](https://github.com/user-attachments/assets/2d4304ce-9d56-4a27-9aba-58ae159e1566)
+
+**Show Student Data:**
+
+![Image](https://github.com/user-attachments/assets/30e6612d-74df-42ce-b923-b2105116b003)
+
+**Delete Student:**
+
