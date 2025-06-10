@@ -53,3 +53,7 @@ The UI is cleanly designed with: Labels and entry boxes for input, Buttons for a
 # OUTPUT:
 
 **Login Page:**
+
+![Image](https://github.com/user-attachments/assets/bb733227-48d6-4022-a25c-8becf4ce83d6)
+
+**Add User:**
