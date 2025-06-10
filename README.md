@@ -60,3 +60,7 @@ The UI is cleanly designed with: Labels and entry boxes for input, Buttons for a
 
 ![Image](https://github.com/user-attachments/assets/0d8d46e6-f993-4701-8e72-e7326e6f910d)
 ![Image](https://github.com/user-attachments/assets/b349d3af-1753-43a7-95e2-e1cf031d4123)
+
+**Search By RollNumber:**
+
+![Image](https://github.com/user-attachments/assets/2d4304ce-9d56-4a27-9aba-58ae159e1566)
