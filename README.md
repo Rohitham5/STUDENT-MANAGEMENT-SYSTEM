@@ -57,3 +57,5 @@ The UI is cleanly designed with: Labels and entry boxes for input, Buttons for a
 ![Image](https://github.com/user-attachments/assets/bb733227-48d6-4022-a25c-8becf4ce83d6)
 
 **Add User:**
+
+![Image](https://github.com/user-attachments/assets/0d8d46e6-f993-4701-8e72-e7326e6f910d)
